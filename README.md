@@ -9,7 +9,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - [LibCom](https://libcom.org/collections/authors)<sup>`The Libertarian Left`</sup>
 - [In Defence of Marxism](https://marxist.com/publications.htm)<sup>`Universal Left`</sup>
 
-### Theory tools <sup><b><i>(A list of Guides, Essays and Courses to help simplify and understand Theory)</i></b></sup>
+### Theory tools <sup><b><i>(A list of tools to help simplify and understand Theory)</i></b></sup>
 - [Liberation School](https://liberationschool.org/)
 - [dessalines's essays](https://dessalines.github.io/essays/)
 - [Michael Heinrich's Introduction to the Three Volumes of Capital](https://files.libcom.org/files/Michael_Heinrich,_Alex_Locascio-An_Introduction_to_the_Three_Volumes_of_Karl_Marx_s_Capital-Monthly_Review_Press,U.S.(2012).pdf)

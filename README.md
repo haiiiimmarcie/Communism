@@ -7,12 +7,14 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - [Marxist Internet Archives](https://www.marxists.org/)<sup>`Universal Left`</sup>
 - [Red Texts](https://redtexts.org/)<sup>`Universal Left`</sup>
 - [LibCom](https://libcom.org/collections/authors)<sup>`The Libertarian Left`</sup>
+- [In Defence of Marxism](https://marxist.com/publications.htm)<sup>`Universal Left`</sup>
 
 ### Theory tools <sup><b><i>(A list of Guides, Essays and Courses to help simplify and understand Theory)</i></b></sup>
 - [Liberation School](https://liberationschool.org/)
 - [dessalines's essays](https://dessalines.github.io/essays/)
 - [Michael Heinrich's Introduction to the Three Volumes of Capital](https://files.libcom.org/files/Michael_Heinrich,_Alex_Locascio-An_Introduction_to_the_Three_Volumes_of_Karl_Marx_s_Capital-Monthly_Review_Press,U.S.(2012).pdf)
 - [Michael Heinrich's "How To Read Marx's Capital"](https://files.libcom.org/files/2021_How_to_Read_Marxs_Capital._Commentary__Explanations_on_the_Beginning_Chapters_Monthly_Review_20.pdf)
+- [In Defence of Marxism](https://marxist.com/marxist-university.htm)<sup>`Universal Left`</sup>
 ##  Modern Communist Parties
 ### USA
 - [American Communist Party (ACP)](https://acp.us/)<sup>`Marxism-Leninism, "Maga Communism"`</sup>

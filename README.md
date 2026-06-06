@@ -7,6 +7,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
   - [Theory Tools](#theory-tools-a-list-of-tools-to-help-simplify-and-understand-theory)
 - [Communist Media](#communist-media)
   - [Communist Movie Lists](#communist-movie-lists)
+  - [Communist Subreddits](#communist-subreddits)
 - [Modern Communist Parties](#modern-communist-parties)
   - [Ruling Parties](#ruling-parties)
   - [USA](#usa)
@@ -49,6 +50,19 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - 🌐 ["Marxist Movie Night (letterboxd)"](https://letterboxd.com/callawalsh/list/marxist-movie-night/)
 - 🌐 ["See You at Mao's (letterboxd)"](https://letterboxd.com/jca/list/see-you-at-maos-the-theory-and-praxis-of/)
 - 🔴 [Soviet Films (letterboxd)](https://letterboxd.com/films/country/ussr/)
+
+### Communist Subreddits
+- 🔴 [r/Communism](https://www.reddit.com/r/communism/)
+- 🌐 [r/Communist](https://www.reddit.com/r/Communist/)
+- 🔴 [r/Communism101](https://www.reddit.com/r/communism101/)
+- 🌐 [r/socialism](https://www.reddit.com/r/socialism/)
+- 🌐 [r/Socialism_101](https://www.reddit.com/r/Socialism_101/)
+- 🟢 [r/Ultraleft](https://www.reddit.com/r/Ultraleft/)
+- 🟢 [r/Anarchocommunism](https://www.reddit.com/r/anarchocommunism/)
+- 🌐 [r/ShitLiberalsSay](https://www.reddit.com/r/ShitLiberalsSay/)
+- 🟢 [r/Leftcommunism](https://www.reddit.com/r/leftcommunism/)
+- 🌐 [r/Marxism](https://www.reddit.com/r/Marxism/) [<sup>`🟢?`</sup>](https://github.com/user-attachments/assets/e32af772-1c2b-4864-ab40-2033508ca724)
+- 🌐 [r/Marxism101](https://www.reddit.com/r/Marxism101/) [<sup>`🟢?`</sup>](https://github.com/user-attachments/assets/e32af772-1c2b-4864-ab40-2033508ca724)
 
 ##  Modern Communist Parties
 ### Ruling Parties

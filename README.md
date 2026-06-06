@@ -42,13 +42,19 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 
 ## Communist Media
 ### Communist Movie Lists
-- 🌐 ["Communism"](https://letterboxd.com/fuchsiadyke/list/communism/)
-- 🌐 ["The Communist Canon"](https://letterboxd.com/film_literacy/list/the-communist-canon/)
-- 🌐 ["Marxist Movie Night"](https://letterboxd.com/callawalsh/list/marxist-movie-night/)
-- 🌐 ["See You at Mao's"](https://letterboxd.com/jca/list/see-you-at-maos-the-theory-and-praxis-of/)
-- 🔴 [Soviet Films](https://letterboxd.com/films/country/ussr/)
+- 🌐 ["Communism (letterboxd)"](https://letterboxd.com/fuchsiadyke/list/communism/)
+- 🌐 ["The Communist Canon (letterboxd)"](https://letterboxd.com/film_literacy/list/the-communist-canon/)
+- 🌐 ["Marxist Movie Night (letterboxd)"](https://letterboxd.com/callawalsh/list/marxist-movie-night/)
+- 🌐 ["See You at Mao's (letterboxd)"](https://letterboxd.com/jca/list/see-you-at-maos-the-theory-and-praxis-of/)
+- 🔴 [Soviet Films (letterboxd)](https://letterboxd.com/films/country/ussr/)
 
 ##  Modern Communist Parties
+### Rulling Parties
+- 🔴 [Communist Party of China/中国共产党 (CPC/中共)](http://en.npc.gov.cn.cdurl.cn/)
+- 🔴 [Communist Party of Cuba/Partido Comunista de Cuba](https://www.pcc.cu/)
+- 🔴 [Lao People's Revolutionary Party/ພັກປະຊາຊົນປະຕິວັດລາວ (LPRP/ພປປລ)](https://ccop.gov.la/)
+- `Juche` [Workers' Party of Korea/조선로동당 (WPK/로동당)](http://www.rodong.rep.kp/ko/) <sup>`Rodong Sinmun website`</sup>
+- 🔴 [Communist Party of Vietnam/Đảng Cộng sản Việt Nam (CPV/ĐCSVN)](http://en.dangcongsan.vn/) <sup>`Dead Link`</sup>
 ### USA
 - 🔴 [American Communist Party (ACP)](https://acp.us/) <sup>`"Maga Communism"`</sup>
 - 🔴 [Communist Party USA (CPUSA)](https://www.cpusa.org/)

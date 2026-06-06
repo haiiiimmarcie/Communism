@@ -12,7 +12,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 ## Communist Literature Tools
 ### Literature Sites <sup><b><i>(A list of websites allowing you to read Socialist Literature)</i></b></sup>
 
-- [Marxist Internet Archives](https://www.marxists.org/)<sup>`Universal Left`</sup>
+- [Marxist Internet Archives](https://www.marxists.org/)<sup>`Universal Left`</sup><sup>`Personal Fav!`</sup>
 - [Red Texts](https://redtexts.org/)<sup>`Universal Left`</sup>
 - [LibCom](https://libcom.org/collections/authors)<sup>`The Libertarian Left`</sup>
 - [In Defence of Marxism](https://marxist.com/publications.htm)<sup>`Universal Left`</sup>

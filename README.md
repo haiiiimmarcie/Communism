@@ -1,6 +1,14 @@
 # Communism
 Communism is the doctrine of the conditions of the liberation of the proletariat. [<sup>`#1`</sup>](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm#:~:text=Communism%20is%20the%20doctrine%20of%20the%20conditions%20of%20the%20liberation%20of%20the%20proletariat.)
 
+### Table of Contents
+- [Communist Literature Tools](#communist-literature-tools)
+  - [Literature Sites](literature-sites-a-list-of-websites-allowing-you-to-read-socialist-literature)
+  - [Theory Tools](#theory-tools-a-list-of-tools-to-help-simplify-and-understand-theory)
+- [Communist Media](#communist-media)
+  - [Communist Movie Lists](#communist-movie-lists)
+- [Modern Communist Parties](#modern-communist-parties)
+  - [USA](#usa)
 ## Communist Literature Tools
 ### Literature Sites <sup><b><i>(A list of websites allowing you to read Socialist Literature)</i></b></sup>
 
@@ -9,7 +17,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - [LibCom](https://libcom.org/collections/authors)<sup>`The Libertarian Left`</sup>
 - [In Defence of Marxism](https://marxist.com/publications.htm)<sup>`Universal Left`</sup>
 
-### Theory tools <sup><b><i>(A list of tools to help simplify and understand Theory)</i></b></sup>
+### Theory Tools <sup><b><i>(A list of tools to help simplify and understand Theory)</i></b></sup>
 - [Liberation School](https://liberationschool.org/)
 - [dessalines's essays](https://dessalines.github.io/essays/)
 - [Michael Heinrich's Introduction to the Three Volumes of Capital](https://files.libcom.org/files/Michael_Heinrich,_Alex_Locascio-An_Introduction_to_the_Three_Volumes_of_Karl_Marx_s_Capital-Monthly_Review_Press,U.S.(2012).pdf)
@@ -17,7 +25,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - [In Defence of Marxism](https://marxist.com/marxist-university.htm)<sup>`Universal Left`</sup>
 
 ## Communist Media
-### Communist Movie lists
+### Communist Movie Lists
 - ["Communism"](https://letterboxd.com/fuchsiadyke/list/communism/)
 - ["The Communist Canon"](https://letterboxd.com/film_literacy/list/the-communist-canon/)
 - ["Marxist Movie Night"](https://letterboxd.com/callawalsh/list/marxist-movie-night/)

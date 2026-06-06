@@ -22,6 +22,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - ["The Communist Canon"](https://letterboxd.com/film_literacy/list/the-communist-canon/)
 - ["Marxist Movie Night"](https://letterboxd.com/callawalsh/list/marxist-movie-night/)
 - ["See You at Mao's"](https://letterboxd.com/jca/list/see-you-at-maos-the-theory-and-praxis-of/)
+- [Soviet Films](https://letterboxd.com/films/country/ussr/)
 
 ##  Modern Communist Parties
 ### USA

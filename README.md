@@ -21,7 +21,8 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - ["Communism"](https://letterboxd.com/fuchsiadyke/list/communism/)
 - ["The Communist Canon"](https://letterboxd.com/film_literacy/list/the-communist-canon/)
 - ["Marxist Movie Night"](https://letterboxd.com/callawalsh/list/marxist-movie-night/)
-- ["See You at Mao's](https://letterboxd.com/jca/list/see-you-at-maos-the-theory-and-praxis-of/)
+- ["See You at Mao's"](https://letterboxd.com/jca/list/see-you-at-maos-the-theory-and-praxis-of/)
+
 ##  Modern Communist Parties
 ### USA
 - [American Communist Party (ACP)](https://acp.us/)<sup>`Marxism-Leninism, "Maga Communism"`</sup>

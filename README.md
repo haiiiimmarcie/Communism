@@ -8,6 +8,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - [Communist Media](#communist-media)
   - [Communist Movie Lists](#communist-movie-lists)
 - [Modern Communist Parties](#modern-communist-parties)
+  - [Ruling Parties](#ruling-parties)
   - [USA](#usa)
 
 |Tag|Description|
@@ -32,6 +33,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - 🟢 [La Bataille Socialiste](https://bataillesocialiste.wordpress.com/category/in-english/)
 - 🟢 [Sinistra](https://www.sinistra.net/)
 - ⚙️and 🟢 [Splits and Fusions](https://splitsandfusions.wordpress.com/)
+- 🔴 [12371 (Chinese Party Leader's thoughts)](https://www.12371.cn/special/sxll/), 🌐 [12371 (The Communist Manifesto)](https://www.12371.cn/special/gcdxy/)
 
 ### Theory Tools <sup><b><i>(A list of tools to help simplify and understand Theory)</i></b></sup>
 - 🌐 [Liberation School](https://liberationschool.org/)
@@ -49,7 +51,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - 🔴 [Soviet Films (letterboxd)](https://letterboxd.com/films/country/ussr/)
 
 ##  Modern Communist Parties
-### Rulling Parties
+### Ruling Parties
 - 🔴 [Communist Party of China/中国共产党 (CPC/中共)](http://en.npc.gov.cn.cdurl.cn/)
 - 🔴 [Communist Party of Cuba/Partido Comunista de Cuba](https://www.pcc.cu/)
 - 🔴 [Lao People's Revolutionary Party/ພັກປະຊາຊົນປະຕິວັດລາວ (LPRP/ພປປລ)](https://ccop.gov.la/)

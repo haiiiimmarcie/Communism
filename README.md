@@ -50,7 +50,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 
 ##  Modern Communist Parties
 ### USA
-- 🔴 [American Communist Party (ACP)](https://acp.us/) <sup>"Maga Communism"`</sup>
+- 🔴 [American Communist Party (ACP)](https://acp.us/) <sup>`"Maga Communism"`</sup>
 - 🔴 [Communist Party USA (CPUSA)](https://www.cpusa.org/)
 - 🔴 [Party for Socialism and Liberation (PSL)](https://pslweb.org/)
 - ⚙️ [Socialist Alternative](https://www.socialistalternative.org/)

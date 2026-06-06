@@ -15,6 +15,13 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - [Michael Heinrich's Introduction to the Three Volumes of Capital](https://files.libcom.org/files/Michael_Heinrich,_Alex_Locascio-An_Introduction_to_the_Three_Volumes_of_Karl_Marx_s_Capital-Monthly_Review_Press,U.S.(2012).pdf)
 - [Michael Heinrich's "How To Read Marx's Capital"](https://files.libcom.org/files/2021_How_to_Read_Marxs_Capital._Commentary__Explanations_on_the_Beginning_Chapters_Monthly_Review_20.pdf)
 - [In Defence of Marxism](https://marxist.com/marxist-university.htm)<sup>`Universal Left`</sup>
+
+## Communist Media
+### Communist Movie lists
+- ["Communism"](https://letterboxd.com/fuchsiadyke/list/communism/)
+- ["The Communist Canon"](https://letterboxd.com/film_literacy/list/the-communist-canon/)
+- ["Marxist Movie Night"](https://letterboxd.com/callawalsh/list/marxist-movie-night/)
+- ["See You at Mao's](https://letterboxd.com/jca/list/see-you-at-maos-the-theory-and-praxis-of/)
 ##  Modern Communist Parties
 ### USA
 - [American Communist Party (ACP)](https://acp.us/)<sup>`Marxism-Leninism, "Maga Communism"`</sup>

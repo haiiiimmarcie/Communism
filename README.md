@@ -27,7 +27,7 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - 🌐 [Marxist Internet Archives](https://www.marxists.org/) <sup>`Personal Fav!`</sup>
 - 🌐 [Red Texts](https://redtexts.org/), [#2 (More Features)](https://tilde.town/~xat/rt/), [#3 (More Features)](https://kanoe.yuuko.eu/redtexts/)
 - 🟢 [LibCom](https://libcom.org/collections/authors)
-- [In Defence of Marxism](https://marxist.com/publications.htm)
+- 🔴 [In Defence of Marxism](https://marxist.com/publications.htm)
 - 🟢 [The Anarchist Library](https://theanarchistlibrary.org/special/index)
 - 🟢 [Archive Autonomies](https://archivesautonomies.org/)
 - 🟢 [Antonie Pannekoek Archives](https://www.aaap.be/Pages/Frontpage.html)
@@ -59,12 +59,12 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - 🌐 [r/Socialism_101](https://www.reddit.com/r/Socialism_101/)
 - 🟢 [r/Ultraleft](https://www.reddit.com/r/Ultraleft/)
 - 🟢 [r/Anarchocommunism](https://www.reddit.com/r/anarchocommunism/)
-- 🌐 [r/ShitLiberalsSay](https://www.reddit.com/r/ShitLiberalsSay/)
+- 🌐 [r/ShitLiberalsSay](https://www.reddit.com/r/ShitLiberalsSay/) <sup>`Meme Subreddit`</sup>
 - 🟢 [r/Leftcommunism](https://www.reddit.com/r/leftcommunism/)
 - 🌐 [r/Marxism](https://www.reddit.com/r/Marxism/) [<sup>`🟢?`</sup>](https://github.com/user-attachments/assets/e32af772-1c2b-4864-ab40-2033508ca724)
 - 🌐 [r/Marxism101](https://www.reddit.com/r/Marxism101/) [<sup>`🟢?`</sup>](https://github.com/user-attachments/assets/e32af772-1c2b-4864-ab40-2033508ca724)
-- 🟢 [r/Clericultraleft](https://www.reddit.com/r/Clericultraleft/)
-- 🟢 [r/CommunismGangsta](https://www.reddit.com/r/CommunismGangsta/)
+- 🟢 [r/Clericultraleft](https://www.reddit.com/r/Clericultraleft/) <sup>`Meme Subreddit`</sup>
+- 🟢 [r/CommunismGangsta](https://www.reddit.com/r/CommunismGangsta/) <sup>`Meme Subreddit`</sup>
 
 ##  Modern Communist Parties
 ### Ruling Parties

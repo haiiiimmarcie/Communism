@@ -63,6 +63,8 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 - 🟢 [r/Leftcommunism](https://www.reddit.com/r/leftcommunism/)
 - 🌐 [r/Marxism](https://www.reddit.com/r/Marxism/) [<sup>`🟢?`</sup>](https://github.com/user-attachments/assets/e32af772-1c2b-4864-ab40-2033508ca724)
 - 🌐 [r/Marxism101](https://www.reddit.com/r/Marxism101/) [<sup>`🟢?`</sup>](https://github.com/user-attachments/assets/e32af772-1c2b-4864-ab40-2033508ca724)
+- 🟢 [r/Clericultraleft](https://www.reddit.com/r/Clericultraleft/)
+- 🟢 [r/CommunismGangsta](https://www.reddit.com/r/CommunismGangsta/)
 
 ##  Modern Communist Parties
 ### Ruling Parties

@@ -4,6 +4,8 @@ Communism is the doctrine of the conditions of the liberation of the proletariat
 ### Table of Contents
 - [Communist Literature Tools](#communist-literature-tools)
   - [Literature Sites](#literature-sites-a-list-of-websites-allowing-you-to-read-socialist-literature)
+    - [Socialist Literature Archives/Libraries](#socialist-literature-archiveslibraries)
+    - [More Opinionated Sites](#more-opinionated-sites)
   - [Theory Tools](#theory-tools-a-list-of-tools-to-help-simplify-and-understand-theory)
 - [Communist Media](#communist-media)
   - [Communist Movie Lists](#communist-movie-lists)
